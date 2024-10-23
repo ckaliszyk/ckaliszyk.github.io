@@ -1,0 +1,91 @@
+/* Partially based on a free layout andreas06 by Andreas Viklund http://andreasviklund.com
+   Free to use for any purpose as long as the proper credits are given for the original design work. */
+body {
+  background:#e1e1e1 url(bodybg.png) repeat-x;
+  font: 100% Palatino, Georgia, Verdana, Tahoma, Arial, sans-serif;
+  margin:0; padding:0; text-align:left;
+}
+#container{
+  background:#e1e1e1 url(bodybg.png) repeat-x;
+  margin: 1em auto; text-align:left; width:95%;
+}
+
+p { margin:0 0 15px; }
+
+a:link { font-weight: bold; text-decoration: none; color: #7F7FCF; }
+a:visited { font-weight: bold; text-decoration: none; color: #AF8FAF; }
+a:hover, a:active { text-decoration: underline; }
+
+#wrap1no{
+background:#ffffff;
+border-bottom:1px solid #808080;
+border-left:1px solid #808080;
+border-right:1px solid #808080;
+border-top:1px solid #808080;
+clear:both;
+padding:0;
+width:99.9%;
+}
+
+#wrap2{
+padding:10px;
+}
+
+#leftside{ float:right; margin:0 0 0; width:250px; text-align: left; }
+
+#contentalt{ margin:15px 280px 0 15px; }
+#contentalt p{ margin:8px 0 0 10px; }
+#contentalt2{ margin:15px 15px 0 15px; }
+#contentalt2 p{ margin:8px 0 0 10px; }
+
+#footer{ clear:both; color:#a0a0a0; font-size:0.9em;
+  margin-top:20px; padding:1px; text-align:right; }
+
+.hide{ display:none; }
+
+img { border:0; padding:0; margin:0;}
+
+h1 { color: #6f7937; font-size: 3.5em; text-align: center;
+  margin-bottom: 0em; margin-top: 0.5em;}
+h2 { color: #6f7937; font-size: 2.5em;
+  margin-bottom: 0.1em; margin-top: 0.5em;}
+h3 { color: #5f6927; font-size: 1.8em; font-weight: bold;
+  margin-bottom: 0.1em; margin-top: 0.5em;}
+h4 { color: #5f6927; font-size: 1.3em; font-weight: bold;
+  margin-bottom: 0.1em; margin-top: 0.3em;}
+div.bibl { font-size: 9pt; margin-bottom: 15pt; }
+div.biblio {margin-left: 0.5em; text-align:justify;}
+
+#advice {
+    border: 1px solid black;
+    position: relative;
+    border-radius: 5px;
+}
+
+.progress {
+  font-size: xx-small;
+}
+.ok {
+  color: green;
+}
+hr{
+    padding: 0px;
+    margin: 0px;
+}
+ul li {
+    font-size: 1.4em;
+    list-style: none;
+}
+
+ul li:before {
+    font-size: 5;
+    content:"· ";
+}
+
+.procs { /*font-weight: bold;*/ }
+.author { display: block; }
+.titl { display: block; }
+
+.click { font-weight: bold; text-decoration: none; color: #7F7FCF; }
+.click:hover { font-weight: bold; text-decoration: none; color: #AF8FAF; }
+.click:hover, .click:active { text-decoration: underline; }
