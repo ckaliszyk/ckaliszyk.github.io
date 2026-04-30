@@ -1,2 +1,2 @@
-ll:
+all:
 	tree -H '.' -L 1 --noreport --dirsfirst -T 'Accompanying Material for Papers' -s -D --charset utf-8 -I "index.html" | grep -v Makefile | grep -v '>[.]<' > index.html
