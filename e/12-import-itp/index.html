@@ -1,0 +1,41 @@
+<center><table><tr>
+<td style="vertical-align:middle">
+<h2>HOL Import</h2>
+<h3>Theory translation from HOL Light to Isabelle/HOL </h3>
+</td>
+<td style="width:10%"/>
+<td><img src="<? print $top ?>/img/import200.png" alt="HH logo"/></td>
+</tr></table></center>
+<h3>Publications:</h3>
+  <ul><li><a href="../">Cezary Kaliszyk</a> and <a href="http://www21.in.tum.de/~krauss/">Alexander Krauss</a>. <i>Scalable LCF-style proof translation</i>. Published at ITP 2013.</li></ul>
+
+<h3>Abstract:</h3>
+<p style="text-align:justify; width: 94%; margin-left: 3%">
+All existing translations between proof assistants have been
+notoriously sluggy, resource-demanding, and do not scale to large
+developments, which has lead to the general perception that the whole
+approach is probably not practical. We aim to show that the observed
+inefficiencies are not inherent, but merely a deficiency of the
+existing implementations. We do so by providing a new implementation
+of a theory import from HOLLight to Isabelle/HOL, which achieves
+decent performance and scalability mostly by avoiding the mistakes of
+the past.
+After some preprocessing, our tool can import large HOLLight
+developments faster than HOLLight processes them. Our main target and
+motivation is the Flyspeck development, which can be imported in a few
+hours on commodity hardware. We also provide mappings for most basic
+types present in the developments including lists, integers and real
+numbers.
+This papers outlines some design considerations and presents a few of our
+extensive measurements, which reveal interesting insights in the low-level
+structure of larger proof developments.</p>
+
+<h3>Source Code</h3>
+  <ul><li>Download source code: <a href="holimport.tgz">holimport.tgz</a>.</li>
+  <li>Unpack in your HOL Light directory and follow the instructions in the included README file.</li>
+</ul>
+<h3>Documentation</h3>
+  <ul><li>Generated files when importing Flyspeck into Isabelle: <a href="flyt.html">flyt.html</a>, <a href="flyt.pdf">flyt.pdf</a></li></ul>
+
+
+

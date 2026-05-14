@@ -1,0 +1,13 @@
+.term           { margin-left: 10pt }
+.binding        { color: #336655; }
+.tfree          { color: #A020F0; }
+.tvar           { color: #A020F0; }
+.free           { color: blue; }
+.skolem         { color: #D2691E; }
+.bound          { color: green; }
+.var            { color: #00009B; }
+.keyword        { font-weight: bold; }
+.command        { font-weight: bold; }
+.entity         { color: #7f0000 }
+.hilite         { background-color: #FFCC66; }
+
