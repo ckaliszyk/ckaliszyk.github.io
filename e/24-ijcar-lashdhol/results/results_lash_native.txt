@@ -1,0 +1,272 @@
+=== list-app-nil-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 232
+=== list-app-nil-indinst.p ===
+% SZS status Theorem
+% Mode: dhol_mode_1
+% Steps: 34
+=== list-app-nil-base.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 818
+=== list-app-nil-base.p ===
+% SZS status Theorem
+% Mode: cade22grackle2xfee4
+% Steps: 30
+=== list-app-nil-indstep.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 330
+=== list-app-nil-indstep.p ===
+% SZS status Theorem
+% Mode: dhol_mode_2
+% Steps: 44
+=== list-app-nil.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_32
+% Steps: 7680
+=== list-app-nil.p ===
+% SZS status Theorem
+% Mode: dhol_mode_3
+% Steps: 25
+=== list-app-assoc-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 27805
+=== list-app-assoc-indinst.p ===
+% SZS status Theorem
+% Mode: dhol_mode_11
+% Steps: 106
+=== list-app-assoc-base.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_26
+% Steps: 118
+=== list-app-assoc-base.p ===
+% SZS status Theorem
+% Mode: dhol_mode_4
+% Steps: 213
+=== list-app-assoc-indstep1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 5661
+=== list-app-assoc-indstep1.p ===
+% SZS status Theorem
+% Mode: dhol_mode_5
+% Steps: 370
+=== list-app-assoc-indstep2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 16269
+=== list-app-assoc-indstep2.p ===
+% SZS status Theorem
+% Mode: dhol_mode_6
+% Steps: 392
+=== list-app-assoc-indstep3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 39429
+=== list-app-assoc-indstep3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_7
+% Steps: 679
+=== list-app-assoc-indstep4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 139
+=== list-app-assoc-indstep4.p ===
+% SZS status Theorem
+% Mode: dhol_mode_7
+% Steps: 168
+=== list-app-assoc-indstep5.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_30
+% Steps: 1293070
+=== list-app-assoc-indstep5.p ===
+% SZS status Theorem
+% Mode: dhol_mode_8
+% Steps: 10918
+=== list-app-assoc.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_28
+% Steps: 12981
+=== list-app-assoc.p ===
+% SZS status Theorem
+% Mode: dhol_mode_19
+% Steps: 277
+=== list-app-assoc-m1-step1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 561
+=== list-app-assoc-m1-step1.p ===
+% SZS status Theorem
+% Mode: dhol_mode_13
+% Steps: 293
+=== list-app-assoc-m1-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 268862
+=== list-app-assoc-m1-step2.p ===
+% SZS status Theorem
+% Mode: dhol_mode_9
+% Steps: 6969
+=== list-app-assoc-m1-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 874
+=== list-app-assoc-m1-step3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_10
+% Steps: 2165
+=== list-app-assoc-m1-step4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 232
+=== list-app-assoc-m1-step4.p ===
+% SZS status Theorem
+% Mode: dhol_mode_18
+% Steps: 131
+=== list-app-assoc-m1-step5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1480
+=== list-app-assoc-m1-step5.p ===
+% SZS status Theorem
+% Mode: dhol_mode_20
+% Steps: 130
+=== list-rev-invol-lem-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 804
+=== list-rev-invol-lem-indinst.p ===
+% SZS status Theorem
+% Mode: dhol_mode_11
+% Steps: 42
+=== list-rev-invol-lem-base-step1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 29
+=== list-rev-invol-lem-base-step1.p ===
+% SZS status Theorem
+% Mode: dhol_mode_12
+% Steps: 2133049
+=== list-rev-invol-lem-base-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 19
+=== list-rev-invol-lem-base-step2.p ===
+% SZS status Theorem
+% Mode: dhol_mode_13
+% Steps: 6
+=== list-rev-invol-lem-base-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 166
+=== list-rev-invol-lem-base-step3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_14
+% Steps: 28012
+=== list-rev-invol-lem-indstep1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1318
+=== list-rev-invol-lem-indstep1.p ===
+% SZS status Theorem
+% Mode: dhol_mode_19
+% Steps: 63
+=== list-rev-invol-lem-indstep2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 68551
+=== list-rev-invol-lem-indstep2.p ===
+% SZS status Theorem
+% Mode: dhol_mode_15
+% Steps: 1343489
+=== list-rev-invol-lem-indstep3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 454
+=== list-rev-invol-lem-indstep3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_16
+% Steps: 109
+=== list-rev-invol-lem-indstep4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 2258
+=== list-rev-invol-lem-indstep4.p ===
+% SZS status Theorem
+% Mode: dhol_mode_22
+% Steps: 26
+=== list-rev-invol-lem-indstep5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 232
+=== list-rev-invol-lem-indstep5.p ===
+% SZS status Theorem
+% Mode: dhol_mode_16
+% Steps: 157
+=== list-rev-invol-lem-indstep6.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 158492
+=== list-rev-invol-lem-indstep6.p ===
+% SZS status Theorem
+% Mode: dhol_mode_18
+% Steps: 343
+=== list-rev-invol-lem-indstep7.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_29
+% Steps: 5274
+=== list-rev-invol-lem-indstep7.p ===
+% SZS status Theorem
+% Mode: dhol_mode_19
+% Steps: 195
+=== list-rev-invol-lem.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_31
+% Steps: 13985
+=== list-rev-invol-lem.p ===
+% SZS status Theorem
+% Mode: dhol_mode_20
+% Steps: 33
+=== list-rev-invol-step1.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_31
+% Steps: 399
+=== list-rev-invol-step1.p ===
+% SZS status Theorem
+% Mode: dhol_mode_21
+% Steps: 7104
+=== list-rev-invol-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 248
+=== list-rev-invol-step2.p ===
+% SZS status Theorem
+% Mode: dhol_mode_22
+% Steps: 8690
+=== list-rev-invol-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 61
+=== list-rev-invol-step3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_23
+% Steps: 5
+=== list-rev-invol-step4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 24
+=== list-rev-invol-step4.p ===
+% SZS status Theorem
+% Mode: dhol_mode_24
+% Steps: 9437
+=== list-rev-invol-step5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1197
+=== list-rev-invol-step5.p ===
+% SZS status Theorem
+% Mode: dhol_mode_25
+% Steps: 23610

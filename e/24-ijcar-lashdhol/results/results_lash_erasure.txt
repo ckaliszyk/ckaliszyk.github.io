@@ -1,0 +1,245 @@
+=== list-app-nil-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 195
+=== list-app-nil-indinst.p ===
+% SZS status Timeout
+% Steps: 2918223
+=== list-app-nil-base.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 991
+=== list-app-nil-base.p ===
+% SZS status Theorem
+% Mode: cade22grackle2xfee4
+% Steps: 44
+=== list-app-nil-indstep.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 19750
+=== list-app-nil-indstep.p ===
+% SZS status Timeout
+% Steps: 4261615
+=== list-app-nil.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_32
+% Steps: 175212
+=== list-app-nil.p ===
+% SZS status Theorem
+% Mode: dhol_mode_3
+% Steps: 31
+=== list-app-assoc-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2xfee4
+% Steps: 28698
+=== list-app-assoc-indinst.p ===
+% SZS status Timeout
+% Steps: 1024009
+=== list-app-assoc-base.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_26
+% Steps: 379
+=== list-app-assoc-base.p ===
+% SZS status Timeout
+% Steps: 774884
+=== list-app-assoc-indstep1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 5840
+=== list-app-assoc-indstep1.p ===
+% SZS status Timeout
+% Steps: 1263173
+=== list-app-assoc-indstep2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 16297
+=== list-app-assoc-indstep2.p ===
+% SZS status Timeout
+% Steps: 553530
+=== list-app-assoc-indstep3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 40183
+=== list-app-assoc-indstep3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_7
+% Steps: 62407
+=== list-app-assoc-indstep4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 131
+=== list-app-assoc-indstep4.p ===
+% SZS status Timeout
+% Steps: 356563
+=== list-app-assoc-indstep5.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_30
+% Steps: 1278103
+=== list-app-assoc-indstep5.p ===
+% SZS status Timeout
+% Steps: 656991
+=== list-app-assoc.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_28
+% Steps: 13736
+=== list-app-assoc.p ===
+% SZS status Timeout
+% Steps: 3722002
+=== list-app-assoc-m1-step1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 581
+=== list-app-assoc-m1-step1.p ===
+% SZS status Timeout
+% Steps: 643604
+=== list-app-assoc-m1-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 269701
+=== list-app-assoc-m1-step2.p ===
+% SZS status Timeout
+% Steps: 560271
+=== list-app-assoc-m1-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 815
+=== list-app-assoc-m1-step3.p ===
+% SZS status Timeout
+% Steps: 100740
+=== list-app-assoc-m1-step4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 191
+=== list-app-assoc-m1-step4.p ===
+% SZS status Timeout
+% Steps: 2370900
+=== list-app-assoc-m1-step5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1403
+=== list-app-assoc-m1-step5.p ===
+% SZS status Theorem
+% Mode: dhol_mode_20
+% Steps: 526
+=== list-rev-invol-lem-indinst.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 747
+=== list-rev-invol-lem-indinst.p ===
+% SZS status Timeout
+% Steps: 4460188
+=== list-rev-invol-lem-base-step1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 23
+=== list-rev-invol-lem-base-step1.p ===
+% SZS status Timeout
+% Steps: 3767007
+=== list-rev-invol-lem-base-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 17
+=== list-rev-invol-lem-base-step2.p ===
+% SZS status Timeout
+% Steps: 3178191
+=== list-rev-invol-lem-base-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 157
+=== list-rev-invol-lem-base-step3.p ===
+% SZS status Timeout
+% Steps: 2592496
+=== list-rev-invol-lem-indstep1.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1285
+=== list-rev-invol-lem-indstep1.p ===
+% SZS status Timeout
+% Steps: 6029306
+=== list-rev-invol-lem-indstep2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 69165
+=== list-rev-invol-lem-indstep2.p ===
+% SZS status Timeout
+% Steps: 2419523
+=== list-rev-invol-lem-indstep3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 409
+=== list-rev-invol-lem-indstep3.p ===
+% SZS status Theorem
+% Mode: dhol_mode_16
+% Steps: 3309
+=== list-rev-invol-lem-indstep4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 2210
+=== list-rev-invol-lem-indstep4.p ===
+% SZS status Timeout
+% Steps: 500312
+=== list-rev-invol-lem-indstep5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 172
+=== list-rev-invol-lem-indstep5.p ===
+% SZS status Timeout
+% Steps: 38961330
+=== list-rev-invol-lem-indstep6.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 159890
+=== list-rev-invol-lem-indstep6.p ===
+% SZS status Timeout
+% Steps: 2351589
+=== list-rev-invol-lem-indstep7.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_29
+% Steps: 5035
+=== list-rev-invol-lem-indstep7.p ===
+% SZS status Theorem
+% Mode: dhol_mode_19
+% Steps: 682
+=== list-rev-invol-lem.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_31
+% Steps: 15859
+=== list-rev-invol-lem.p ===
+% SZS status Theorem
+% Mode: dhol_mode_20
+% Steps: 42
+=== list-rev-invol-step1.p ===
+% SZS status TypeCheck
+% Mode: dhol_mode_31
+% Steps: 381
+=== list-rev-invol-step1.p ===
+% SZS status Timeout
+% Steps: 3238857
+=== list-rev-invol-step2.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 233
+=== list-rev-invol-step2.p ===
+% SZS status Timeout
+% Steps: 2376139
+=== list-rev-invol-step3.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 44
+=== list-rev-invol-step3.p ===
+% SZS status Timeout
+% Steps: 3335327
+=== list-rev-invol-step4.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 21
+=== list-rev-invol-step4.p ===
+% SZS status Timeout
+% Steps: 3382495
+=== list-rev-invol-step5.p ===
+% SZS status TypeCheck
+% Mode: cade22grackle2x798d
+% Steps: 1126
+=== list-rev-invol-step5.p ===
+% SZS status Timeout
+% Steps: 5011609
