@@ -1,0 +1,7 @@
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+AddCharset UTF-8 .html
+IndexOptions Charset=UTF-8
+AddType 'text/html; charset=UTF-8' html
+HeaderName header.html
+IndexIgnore header.html style_experiments.css
+

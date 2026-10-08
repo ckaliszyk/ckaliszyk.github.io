@@ -1,0 +1,15 @@
+IndexOptions IgnoreCase FancyIndexing FoldersFirst NameWidth=* DescriptionWidth=*
+AddCharset UTF-8 .html
+IndexOptions Charset=UTF-8
+AddType 'text/html; charset=UTF-8' html
+HeaderName header.html
+IndexIgnore header.html style_experiments.css
+AddDescription "Problems solved by E Prover with the found dependencies" solved_e.txt
+AddDescription "Problems solved by Vampire with the found dependencies" solved_v.txt
+AddDescription "Problems solved by Z3 with the found dependencies" solved_z.txt
+AddDescription "Dependencies of the problems extracted from the Coq proof terms" dependencies.txt
+AddDescription "The TPTP input files corresponding to all Props in the Coq standard library" problems.tgz
+AddDescription "The statistics for all problems for the selected provers" stats_full.html
+AddDescription "The statistics for selected 1000 problems for more ATP provers" stats_sel.html
+AddDescription "The CNF problems on which the evaluation in the paper was performed" inputs.tgz
+

@@ -1,0 +1,2 @@
+<?xml version="1.0"?>
+<div><span class="kw">theorem </span><span class="lab"><font color="Green" title="E57">Th50</font></span>: <a NAME="T50"><span class="comment"><font color="firebrick">:: SURREALO:50</font></span><br/></a><div class="add"> for <font color="Olive" title="b1">x</font> being   <a href="surrealo.html#NM1" title="SURREALO:NM.1">Surreal</a> holds  <font color="Olive" title="b1">x</font> <a href="surrealo.html#R5" title="SURREALO:pred.5">&lt;=</a> <font color="Olive" title="b1">x</font></div></div>

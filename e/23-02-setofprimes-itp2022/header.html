@@ -1,0 +1,32 @@
+<h3>This is the accompanying material for the paper:</h3>
+<ul><li>Formalizing the set of primes as an alternative to the DPRM theorem (short paper)</li></ul>
+<h3>by K.Pąk and C.Kaliszyk submitted to ITP 2022</h3>
+
+<p>The formalization is compatible with the latest Mizar <a href="http://mizar.uwb.edu.pl/~softadm/pub/system/i386-win32/mizar-8.1.11_5.68.1412-i386-win32.exe">windows version 8.1.11 5.68.1412</a></p>
+
+<p>In order to recheck the formalization:</p>
+
+<ul>
+  <li>Unpack Mizar into c:\mizar
+  <li>Run:
+<pre>
+install c:\mizar
+</pre>
+  <li>Put the formalization directories text and dict in c:\mizar
+  <li>Run the verifier:
+<pre>
+mizf text\hilb10_7
+mizf text\hilb10_8
+miz2prel text\hilb10_7
+mizf text\polynom
+</pre>
+  <li>The above step already verified the proofs, but to additionally obtain the more readable abstracts run:
+<pre>
+miz2abs text\hilb10_7
+miz2abs text\hilb10_8
+miz2abs text\polynom
+</pre>
+</ul>
+
+The package "pack2" includes improvements to the formalization based on the reviewer comments.
+<!--When packing the formalization for the paper, a small typo was introduced ("end;" instead of "end; end;" in polynom, line 12851). The package "-corrected" has the formalization without this typo (the typo spotted after the deadline).-->
